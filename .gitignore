@@ -1,0 +1,28 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+gae-app-springboot-standard/.idea
+gae-app-springboot-standard/target
+gae-app-springboot-standard/springboot-appengine-standard.iml
+*.iws
+*.iml
+*.ipr
+gae-app.iml
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
