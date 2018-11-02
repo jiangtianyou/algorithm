@@ -9,7 +9,6 @@ public class SelectSort {
 	static int[] select(int[] data) {
 		int len = data.length;
 		for (int i = 0; i < len - 1; i++) {
-			int minIndex = i;
 			for (int j = i + 1; j < len; j++) {
 				if (data[i] > data[j]) {
 					int tmp = data[i];
