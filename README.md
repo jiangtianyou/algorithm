@@ -1,2 +1,2 @@
 # algorithm
-Common algorithms implemented in Java
+Common algorithms and data structures implemented in Java
